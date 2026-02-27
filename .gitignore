@@ -8,6 +8,8 @@
 [Ll]ogs/
 UserSettings/
 MemoryCaptures/
+.vs/
+
 
 # Addressables
 ServerData/
@@ -46,6 +48,7 @@ ExportedObj/
 .DS_Store
 Thumbs.db
 desktop.ini
+local.properties
 
 # Crash reports
 
