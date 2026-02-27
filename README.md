@@ -11,6 +11,11 @@ Android Build Support
 <br>
 No other build modules are required.
 
+# Meta XR SDK
+(Have to be opened via the Unity Asset Store then the link opened and downloaded in Unity)
+Meta XR all in one SDK
+Meta XR Simulator
+
 # Version Control Settings (Important for Git)
 Project Settings → Version Control<br>
 Mode: Visible Meta Files<br>
